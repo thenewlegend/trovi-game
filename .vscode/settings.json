@@ -1,0 +1,30 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".npmrc": true,
+        "draft.md": true,
+        "package.json": true,
+        "pnpm-lock.yaml": true,
+        "svelte.config.js": true,
+        "tsconfig.json": true,
+        "vite.config.ts": true,
+        ".svelte-kit": true,
+        ".vscode": true
+    },
+    "hide-files.files": [
+        ".npmrc",
+        "draft.md",
+        "package.json",
+        "pnpm-lock.yaml",
+        "svelte.config.js",
+        "tsconfig.json",
+        "vite.config.ts",
+        ".svelte-kit",
+        ".vscode"
+    ]
+}

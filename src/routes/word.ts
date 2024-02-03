@@ -1,0 +1,30 @@
+export const word = [
+    'Apple', 'Apple',
+    'Bowl', 'Bowl',
+    'Cat', 'Cat',
+    'Daisy', 'Daisy',
+    'Eagle', 'Eagle',
+    'Fox', 'Fox',
+    'Grape', 'Grape',
+    'Hat', 'Hat',
+    'Ice', 'Ice',
+    'Joker', 'Joker',
+    'Kiwi', 'Kiwi',
+    'Lemon', 'Lemon',
+    'Mango', 'Mango',
+    'Nest', 'Nest',
+    'Orange', 'Orange',
+    'Pen', 'Pen',
+    'Quill', 'Quill',
+    'Rainbow', 'Rainbow',
+    'Sun', 'Sun',
+    'Tree', 'Tree',
+    'Urn', 'Urn',
+    'Violin', 'Violin',
+    'Water', 'Water',
+    'Xylem', 'Xylem',
+    'Yarn', 'Yarn',
+    'Zebra', 'Zebra'
+  ];
+  
+  
